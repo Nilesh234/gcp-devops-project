@@ -1,1 +1,3 @@
-# This is devops project repo
+# Docker flask application
+
+- this app written in python
